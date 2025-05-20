@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente trabajo en [DelMarTg](https://34.221.187.16/). 
 - 📚 Estoy iniciando mi canal de Youtube para enseñar programación.
-- 🌱 Actualmente estoy buscando certificarme en los cloud **GCP, AWS y Azure**
+- 🌱 Actualmente estoy buscando certificarme en los cloud **GCP y AWS**
 
 &emsp;
 
